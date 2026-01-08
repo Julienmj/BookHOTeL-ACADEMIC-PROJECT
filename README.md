@@ -1,6 +1,6 @@
 # Hotel Booking System
 
-A Java-based Hotel Booking System that allows users to manage hotel reservations, room inventory, and guest information.!
+A Java-based Hotel Booking System that allows users to manage hotel reservations, room inventory, and guest information.
 
 ## Features
 
@@ -65,4 +65,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
